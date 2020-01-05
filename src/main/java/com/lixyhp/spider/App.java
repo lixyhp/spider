@@ -12,7 +12,7 @@ public class App {
 	static Logger logger = LogManager.getLogger(App.class.getName());
 	
 	public static void main(String[] args) {
-		recursion("http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/65.html");
+		recursion("http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html");
 		
 	}
 	 
